@@ -2,6 +2,7 @@
 
 Linux Interview Questions
 
+
 1. What is the difference between a process and a thread in Linux?
 
 A process is an independent program with its own memory space.
